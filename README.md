@@ -1,7 +1,3 @@
-Here’s a README file for the project **"dg_for_nft"**, including the requested table of contents:
-
----
-
 # dg_for_nft
 
 ## Table of Contents

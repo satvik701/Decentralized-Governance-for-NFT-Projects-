@@ -1,0 +1,16 @@
+[package]
+name = "dg_for_nft"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xdced8c78678e7f164142b7b0dd138edec844930cf015ecccd6e71043977665bb"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"  # Make sure this is the correct branch or tag
+subdir = "aptos-framework"
+
+[dev-dependencies]
